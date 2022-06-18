@@ -1,0 +1,16 @@
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\bin\Debug\net6.0\09.12.AP.exe
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\bin\Debug\net6.0\09.12.AP.deps.json
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\bin\Debug\net6.0\09.12.AP.runtimeconfig.json
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\bin\Debug\net6.0\09.12.AP.dll
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\bin\Debug\net6.0\ref\09.12.AP.dll
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\bin\Debug\net6.0\09.12.AP.pdb
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.GlobalUsings.g.cs
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.csproj.AssemblyReference.cache
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.AssemblyInfoInputs.cache
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.AssemblyInfo.cs
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.csproj.CoreCompileInputs.cache
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.dll
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\ref\09.12.AP.dll
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.pdb
+C:\Users\Luanda\source\repos\09.12.AP\09.12.AP\obj\Debug\net6.0\09.12.AP.genruntimeconfig.cache
